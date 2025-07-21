@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AP_Assignment.iml" filepath="$PROJECT_DIR$/AP_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PolygonApp.iml" filepath="$PROJECT_DIR$/PolygonApp.iml" />
     </modules>
   </component>
 </project>
