@@ -149,9 +149,9 @@ public class ContainerFrame extends JFrame {
             }
             int sides = Integer.parseInt(sidesField.getText());
             //As the gui must generate polygons
-            if(sides <= 4){
+            if(sides <= 3){
                 // if the user requset 4 sides they will be met with error messages
-                System.out.println("Invalid number of sides. Please enter a number more than 4");
+                System.out.println("Invalid number of sides. Please enter a number more than 3");
                 JOptionPane.showMessageDialog(this, "Invalid number of sides. Please enter a number more than 4", "Error", JOptionPane.ERROR_MESSAGE);
                 //if more than 4 then it would add it to the arraylist
                 return;}
